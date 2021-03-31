@@ -14,9 +14,9 @@
 -->
 
 - 🔭 I’m currently working on [YetFix](https://yetfix.com).
-- 🔭 I’m currently working on [laravel](https://laravel.com),[Lumen](https://lumen.laravel.com/),[Vue](https://vuejs.org),[Nuxt js](https://nuxtjs.org)
-- 🌱 I’m currently learning [laravel](https://laravel.com),[Lumen](https://lumen.laravel.com/),[Vue](https://vuejs.org),[Nuxt js](https://nuxtjs.org)
-- 💬 Ask me about Laravel,vue,nuxt or any tech related stuff.
+- 🔭 I’m currently working on [laravel](https://laravel.com),[Lumen](https://lumen.laravel.com/),[Vue](https://vuejs.org)
+- 🌱 I’m currently learning [laravel](https://laravel.com),[Lumen](https://lumen.laravel.com/),[Vue](https://vuejs.org)
+- 💬 Ask me about Laravel,vue or any tech related stuff.
 - 📫 How to reach me: [mdalibd.com](https://www.mdalibd.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 60 hours to developing to 7 Days of Week.
