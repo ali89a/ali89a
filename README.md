@@ -24,4 +24,4 @@
 [![GitHub ali89a](https://img.shields.io/github/followers/ali89a?label=follow&style=social)](https://github.com/ali89a)
 [![Twitter: mdali89a](https://img.shields.io/twitter/follow/mdali89a?style=social)](https://twitter.com/mdali89a)
 [![Linkedin: ali89a](https://img.shields.io/badge/-ali89a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali89a/)](https://www.linkedin.com/in/ali89a/)
-[![website](https://img.shields.io/badge/Portfolio-lemonpatwari.com-2648ff?style=flat-square&logo=google-chrome)](https://www.mdalibd.com)
+[![website](https://img.shields.io/badge/Portfolio-mdalibd.com-2648ff?style=flat-square&logo=google-chrome)](https://www.mdalibd.com)
