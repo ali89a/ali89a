@@ -1,5 +1,6 @@
 ### I'm [Mohammad Ali!](https://www.mohammadali.me) 👋
-
+[![Website](https://img.shields.io/website?label=mohammadali.me&style=for-the-badge&url=https%3A%2F%2Fmohammadali.me)](https://mohammadali.me)
+![Github](https://img.shields.io/github/followers/ali89a?color=green&logo=github&logoColor=white&style=for-the-badge)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=2566C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ali89a)  
 [![Facebook Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/alidiu) 
 [![Twitter Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://www.twitter.com/mdali89a) 
