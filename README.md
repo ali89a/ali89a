@@ -25,3 +25,12 @@
 [![Twitter: mdali89a](https://img.shields.io/twitter/follow/mdali89a?style=social)](https://twitter.com/mdali89a)
 [![Linkedin: ali89a](https://img.shields.io/badge/-ali89a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali89a/)](https://www.linkedin.com/in/ali89a/)
 [![website](https://img.shields.io/badge/Portfolio-mohammadali.me-2648ff?style=flat-square&logo=google-chrome)](https://www.mohammadali.me)
+### Remark
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ali89a">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ali89a&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ali89a&layout=compact&theme=algolia&include_all_commits=true&count_private=true&langs_count=8&hide=DIGITAL Command Language"/>
+</a>
+</p> 
